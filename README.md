@@ -15,15 +15,15 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 <br/><font>Table 1. Open-loop planning performance.</font>
 </p>
 <p align="center">
-<image src="figs/table2.png" width="650">
+<image src="figs/table2.png" width="500">
 <br/><font>Table 2. Statistical results of L2 distance and collision rate with turn left, turn right and go straight commands.</font>
 </p>
 <p align="center">
-<image src="figs/table3.png" width="650">
+<image src="figs/table3.png" width="500">
 <br/><font>Table 3. Ablation study of GPVL on nuScenes.</font>
 </p>
 <p align="center">
-<image src="figs/table4.png" width="300">
+<image src="figs/table4.png" width="400">
 <br/><font>Table 4. Zero-shot performance on the new city.</font>
 </p>
 <p align="center">
