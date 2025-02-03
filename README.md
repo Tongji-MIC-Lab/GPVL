@@ -54,5 +54,16 @@ bash scripts/finetune_cap.sh
 ### Evaluation
 python visual/test_by_pred_results.py
 
+## Citation
+If you find GPVL useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+```
+@article{li2025generative,
+  title={Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving},
+  author={Li, Tengpeng and Wang, Hanli and Li, Xianfei and Liao, Wenlong and He, Tao and Peng, Pai},
+  journal={arXiv preprint arXiv:2501.08861},
+  year={2025}
+}
+```
+
 ## Acknowledgement
 GPVL is based on the following projects: [VAD](https://github.com/hustvl/VAD) and [VALOR](https://github.com/TXH-mercury/VALOR). Many thanks for their excellent contributions to the community.
