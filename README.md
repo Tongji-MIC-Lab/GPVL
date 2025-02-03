@@ -51,3 +51,6 @@ bash scripts/finetune_cap.sh
 
 ### Evaluation :
 python visual/test_by_pred_results.py
+
+## Acknowledgement
+GPVL is based on the following projects: [VAD](https://github.com/hustvl/VAD) and [VALOR](https://github.com/TXH-mercury/VALOR). Many thanks for their excellent contributions to the community.
