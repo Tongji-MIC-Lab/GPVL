@@ -43,6 +43,6 @@ python ./tools/det_motion_map_labels.py
 #### extract the detection, motion and map features
 bash visual/extract.sh
 #### directly download the preprocessing labels
-Download preprocessing labels ([google cloud link]: https://drive.google.com/file/d/1oyssnBN8FQ2Cv91fm7KpVH_-ZbJxJE4S/view?usp=drive_link) or
-Download preprocessing labels ([baidu cloud link]: https://pan.baidu.com/s/1hYvOZGMuqogE8qtm_WHQfA,  [Fetch codes]: gy6m)
+Download preprocessing labels [google cloud link]: (https://drive.google.com/file/d/1oyssnBN8FQ2Cv91fm7KpVH_-ZbJxJE4S/view?usp=drive_link) or
+[baidu cloud link]: (https://pan.baidu.com/s/1hYvOZGMuqogE8qtm_WHQfA),  [Fetch codes]: gy6m
 
