@@ -7,3 +7,26 @@ The overall pipeline of the proposed GPVL model is illustrated in Fig. 1. First,
 <image src="figs/fig2.jpg" width="800">
 <br/><font>Fig. 1. Overview of the proposed GPVL framework.</font>
 </p>
+
+## Results:
+The proposed GPVL is compared with several state-of-the-art autonomous driving models on the nuScenes dataset. The experimental results are shown in Table 1, Table 2, Table 3 and Table 4. Then, qualitative experiments are conducted to verify the effectiveness of the proposed GPVL, as illustrated in Fig. 2. 
+<p align="center">
+<image src="figs/table1.png" width="650">
+<br/><font>Table 1. Open-loop planning performance.</font>
+</p>
+<p align="center">
+<image src="figs/table2.png" width="650">
+<br/><font>Table 2. Statistical results of L2 distance and collision rate with turn left, turn right and go straight commands.</font>
+</p>
+<p align="center">
+<image src="figs/table3.png" width="650">
+<br/><font>Table 3. Ablation study of GPVL on nuScenes.</font>
+</p>
+<p align="center">
+<image src="figs/table4.png" width="650">
+<br/><font>Table 4. Zero-shot performance on the new city.</font>
+</p>
+<p align="center">
+<image src="maps/fig4.jpg" width="650">
+<br/><font>Fig. 2. Visualized comparison of the proposed GPVL, VAD and the ground-truth on the nuScenes dataset.</font>
+</p>
