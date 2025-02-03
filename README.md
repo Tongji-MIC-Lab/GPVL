@@ -27,6 +27,6 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 <br/><font>Table 4. Zero-shot performance on the new city.</font>
 </p>
 <p align="center">
-<image src="figs/fig3.jpg" width="650">
+<image src="figs/fig3.jpg" width="550">
 <br/><font>Fig. 2. Visualized comparison of the proposed GPVL, VAD and the ground-truth on the nuScenes dataset.</font>
 </p>
