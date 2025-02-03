@@ -30,3 +30,9 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 <image src="figs/fig3.jpg" width="550">
 <br/><font>Fig. 2. Visualized comparison of the proposed GPVL, VAD and the ground-truth on the nuScenes dataset.</font>
 </p>
+
+### Usage:
+
+#### Preparations
+- Python 3.8
+- pytorch = 1.9.1 cuda=11.1, torchvision==0.10.1, mmcv=0.14.0, torchaudio=0.9.1, mmdet==2.14.0, mmsegmentation==0.14.1, apex=0.1, nuscenes-devkit==1.1.9
