@@ -42,6 +42,12 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 python ./tools/det_motion_map_labels.py
 #### extract the detection, motion and map features
 bash visual/extract.sh
-#### directly download the preprocessing labels
-Download preprocessing labels [Google Cloud](https://drive.google.com/file/d/1oyssnBN8FQ2Cv91fm7KpVH_-ZbJxJE4S/view?usp=drive_link) or [Baidu link](https://pan.baidu.com/s/1hYvOZGMuqogE8qtm_WHQfA), Password: gy6m
 
+### 3d-vision-language training
+bash scripts/pretrain.sh
+
+### trajectory finetuning
+bash scripts/finetune_cap.sh
+
+### evaluation :
+python visual/test_by_pred_results.py
