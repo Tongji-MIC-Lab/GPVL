@@ -51,7 +51,7 @@ bash scripts/pretrain.sh
 ### Trajectory finetuning
 bash scripts/finetune_cap.sh
 
-### Evaluation :
+### Evaluation
 python visual/test_by_pred_results.py
 
 ## Acknowledgement
