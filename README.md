@@ -23,7 +23,7 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 <br/><font>Table 3. Ablation study of GPVL on nuScenes.</font>
 </p>
 <p align="center">
-<image src="figs/table4.png" width="650">
+<image src="figs/table4.png" width="300">
 <br/><font>Table 4. Zero-shot performance on the new city.</font>
 </p>
 <p align="center">
