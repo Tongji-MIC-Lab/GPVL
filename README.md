@@ -35,7 +35,7 @@ The proposed GPVL is compared with several state-of-the-art autonomous driving m
 
 ### Preparations
 - Python 3.8
-- pytorch = 1.9.1 cuda=11.1, torchvision==0.10.1, mmcv=0.14.0, torchaudio=0.9.1, mmdet==2.14.0, mmsegmentation==0.14.1, apex=0.1, nuscenes-devkit==1.1.9
+- pytorch=1.9.1, cuda=11.1, torchvision=0.10.1, mmcv=0.14.0, torchaudio=0.9.1, mmdet=2.14.0, mmsegmentation=0.14.1, apex=0.1, nuscenes-devkit=1.1.9
 
 ### Data preparation
 #### make the prompts of detection, motion, map and global labels
