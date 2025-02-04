@@ -64,6 +64,3 @@ If you find GPVL useful in your research or applications, please consider giving
   year={2025}
 }
 ```
-
-## Acknowledgement
-GPVL is based on the following projects: [VAD](https://github.com/hustvl/VAD) and [VALOR](https://github.com/TXH-mercury/VALOR). Many thanks for their excellent contributions to the community.
