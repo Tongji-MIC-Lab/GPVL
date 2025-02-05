@@ -45,7 +45,7 @@ bash visual/extract.sh
 #### pretrained bert weights
 download the weights from [google cloud](https://drive.google.com/file/d/1KyqOzQIzNcL1Q9uEGmDECHfU-8CCd4kk/view)
 
-### 3d-vision-language training
+### 3D-vision-language training
 bash scripts/pretrain.sh
 
 ### Trajectory finetuning
