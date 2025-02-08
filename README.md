@@ -44,8 +44,8 @@ python ./tools/det_motion_map_labels.py
 bash visual/extract.sh
 #### pretrained bert weights
 download the weights from [google cloud](https://drive.google.com/file/d/1KyqOzQIzNcL1Q9uEGmDECHfU-8CCd4kk/view)
-#### det-motion-map labels
-download the preprocessed labels from [google_cloud][https://drive.google.com/file/d/1E4X20n9ffAY5JhsB7mTxDDcm9OWUkN9L/view?usp=drive_link] and put it into datasets folder
+#### det-motion-map labels [optional]
+directly download the preprocessed labels from [google_cloud][https://drive.google.com/file/d/1E4X20n9ffAY5JhsB7mTxDDcm9OWUkN9L/view?usp=drive_link] and put it into datasets folder
 
 ### 3D-vision-language training
 bash scripts/pretrain.sh
